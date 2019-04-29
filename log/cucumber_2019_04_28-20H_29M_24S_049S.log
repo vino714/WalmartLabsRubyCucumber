@@ -1,0 +1,9 @@
+# Logfile created on 2019-04-28 20:29:24 -0700 by logger.rb/56815
+D, [2019-04-28T20:29:24.050066 #12708] DEBUG -- : Scenario:  Add product to Cart
+D, [2019-04-28T20:29:24.050066 #12708] DEBUG -- : URL:  
+I, [2019-04-28T20:29:24.051028 #12708]  INFO -- : 
+D, [2019-04-28T20:29:31.835239 #12708] DEBUG -- : Increased Quantity
+D, [2019-04-28T20:29:32.113108 #12708] DEBUG -- : Clicked Add to Cart
+D, [2019-04-28T20:29:33.494893 #12708] DEBUG -- : 
+D, [2019-04-28T20:29:33.494893 #12708] DEBUG -- : Finished Scenario: Add product to Cart
+D, [2019-04-28T20:29:33.494893 #12708] DEBUG -- : Status: passed

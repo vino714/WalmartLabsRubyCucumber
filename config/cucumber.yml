@@ -1,0 +1,5 @@
+<%
+timesstamp = Time.now.strftime('%Y_%m_%d-%HH_%MM_%SS_%LS')
+%>
+default:  --profile walmartLabs
+walmartLabs: -r support -r features/step_definitions features TEST_TIMEOUT=1 BROWSER_NAME=chrome --format html --out log/Walmart_<%= timesstamp%>.html --format pretty

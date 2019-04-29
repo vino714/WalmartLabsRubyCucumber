@@ -1,0 +1,12 @@
+# Logfile created on 2019-04-28 20:29:33 -0700 by logger.rb/56815
+D, [2019-04-28T20:29:33.690208 #12708] DEBUG -- : Scenario:  verify the Add to cart popup updates the quantity and Price
+D, [2019-04-28T20:29:33.690208 #12708] DEBUG -- : URL:  
+I, [2019-04-28T20:29:33.690208 #12708]  INFO -- : 
+D, [2019-04-28T20:29:41.622035 #12708] DEBUG -- : Increased Quantity
+D, [2019-04-28T20:29:41.885339 #12708] DEBUG -- : Clicked Add to Cart
+I, [2019-04-28T20:29:47.546315 #12708]  INFO -- : Increase quantity on ATC matches the product count below the Subtotal
+I, [2019-04-28T20:29:47.603490 #12708]  INFO -- : Increasing quantity on ATC modal matches the count with Cart Icon
+I, [2019-04-28T20:29:47.604601 #12708]  INFO -- : Increase qty = 3 :: New Subtotal : 1494 :: Page Subtotal : 1494
+D, [2019-04-28T20:29:47.606515 #12708] DEBUG -- : 
+D, [2019-04-28T20:29:47.607481 #12708] DEBUG -- : Finished Scenario: verify the Add to cart popup updates the quantity and Price
+D, [2019-04-28T20:29:47.607481 #12708] DEBUG -- : Status: passed

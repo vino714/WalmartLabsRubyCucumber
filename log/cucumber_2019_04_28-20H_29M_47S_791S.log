@@ -1,0 +1,7 @@
+# Logfile created on 2019-04-28 20:29:47 -0700 by logger.rb/56815
+D, [2019-04-28T20:29:47.792712 #12708] DEBUG -- : Scenario:  Verify the reviews are sorted by lowest to Highest
+D, [2019-04-28T20:29:47.793710 #12708] DEBUG -- : URL:  
+I, [2019-04-28T20:29:47.793710 #12708]  INFO -- : 
+D, [2019-04-28T20:29:59.610943 #12708] DEBUG -- : 
+D, [2019-04-28T20:29:59.610943 #12708] DEBUG -- : Finished Scenario: Verify the reviews are sorted by lowest to Highest
+D, [2019-04-28T20:29:59.610943 #12708] DEBUG -- : Status: passed
